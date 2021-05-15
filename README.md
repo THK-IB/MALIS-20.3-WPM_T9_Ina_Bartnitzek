@@ -12,9 +12,3 @@ Beschreibung von datenintensiven und datenfokusierten Aktivitäten im eignen Arb
 
 - Erstellung: GWDG Pad
 - Download: Markdown
-
-#### 3. Offene Punkte:
-
-- Zeilenumbrüche Inhaltsverzeichnis
-- Zeilenumbrüche Fußnoten
-- Umsetzung/Links zu Fußnoten
