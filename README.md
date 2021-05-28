@@ -8,11 +8,11 @@ Beschreibung von datenintensiven und datenfokusierten Aktivitäten im eignen Arb
 - Die TadempartnerInnen sollen gegenseitig mindestens 3 Issue (Tickets) mit Verbesserungsvorschlägen schreiben sowie mindestens einen Pull-Request schreiben.
 - Umfang: 1000 – 1500 Wörter (exklusive von Quellenverweisen)
 
-2. Notizen
+#### 2. Notizen
 
-    Erstellung: GWDG Pad
-    Download: Markdown
-    Verbindung Remote-Repositorium: Git Bash
-    Prüfung Umsetzung Markdown: GitHub
-    Änderungen: GitHub
-    Aktualisierung lokale Daten: Git Bash, git pull
+- Erstellung: GWDG Pad
+- Download: Markdown
+- Verbindung Remote-Repositorium: Git Bash
+- Prüfung Umsetzung Markdown: GitHub
+- Änderungen: GitHub
+- Aktualisierung lokale Daten: Git Bash, git pull
