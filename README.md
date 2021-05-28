@@ -8,17 +8,11 @@ Beschreibung von datenintensiven und datenfokusierten Aktivitäten im eignen Arb
 - Die TadempartnerInnen sollen gegenseitig mindestens 3 Issue (Tickets) mit Verbesserungsvorschlägen schreiben sowie mindestens einen Pull-Request schreiben.
 - Umfang: 1000 – 1500 Wörter (exklusive von Quellenverweisen)
 
-#### 2. Anmerkungen
+2. Notizen
 
-- Erstellung: [GWDG Pad](https://pad.gwdg.de/PoJ0SLHpRBS6du751TmAKQ#)
-- Download: Markdown
-- Verbindung Remote-Repositorium: Git Bash, Ordner anlegen, Datei hinein verschieben, git remote add origin, push -u origin master -> *daher branch master statt main?!*
-- Prüfung Umsetzung Markdown: GitHub, Fehlerhafte Umsetzung bei Fußnoten und Zeilenumbrüchen
-- Änderungen: direkt auf GitHub
-- Aktualisierung lokale Daten: Git Bash, git pull
-
--> Überlegung bzgl. Branch:
-- Main auf GitHub federführend, Master aus Bash erstellt
-- Hinzufügen über: git checkout master (dann aber main - geht das?), git merge master, git push, -> alles Branch Main zugeordnet
-- Löschen über: git branch -d master -> Branch Master gelöscht
-- Verschieben/Kopieren über GitHub möglich?
+    Erstellung: GWDG Pad
+    Download: Markdown
+    Verbindung Remote-Repositorium: Git Bash
+    Prüfung Umsetzung Markdown: GitHub
+    Änderungen: GitHub
+    Aktualisierung lokale Daten: Git Bash, git pull
